@@ -1,0 +1,40 @@
+    .center 
+    {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    p{
+        text-align: center;
+        color: #594545;
+    }
+    address
+    {
+        color:#594545;
+    }
+    .navbar
+    {
+        color: #9E7676;
+        padding: 5px 170px;
+        text-decoration: none;
+        display: inline-block;
+        text-align: center;
+        border-style: double;
+        display: inline-block;
+        text-align: center;
+        background-color:#FFF8EA;
+    }  
+    a:link
+    {
+        text-decoration: none;
+    }
+    a:hover, a:visited
+    {
+        color:#9E7676;
+    }
+    h1
+    {
+        text-align: center;
+    }
+    
+    
